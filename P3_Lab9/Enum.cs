@@ -11,7 +11,7 @@ namespace P3_Lab9
             Dzieci =1, 
             Mlodziez=2,
             Dorosli=4,
-            Starsi=8, 
+            Starsi=8,
             
         }
 
